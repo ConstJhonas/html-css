@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body{
+    background-color: #1d1d1d;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+iframe{
+    margin-left: 574px;
+}
+
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+#voltar{
+        margin-left: 927px;
+}
